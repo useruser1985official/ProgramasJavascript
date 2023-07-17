@@ -24,15 +24,15 @@ ul li {
     border: none;
 }
 ul li#gasolina {
-    background: url("../_imagens/bomba-gasolina.png") no-repeat;
+    background: url("../imagens/bomba-gasolina.png") no-repeat;
     background-size: 400px auto;
 }
 ul li#alcool {
-    background: url("../_imagens/bomba-alcool.png") no-repeat;
+    background: url("../imagens/bomba-alcool.png") no-repeat;
     background-size: 400px auto;
 }
 ul li#diesel {
-    background: url("../_imagens/bomba-diesel.png") no-repeat;
+    background: url("../imagens/bomba-diesel.png") no-repeat;
     background-size: 400px auto;
 }
 ul li#gasolina h1 {
